@@ -1,1 +1,2 @@
 # AmdocsProject
+The Employee Management System is a console-based application designed to manage employee data efficiently. The system allows users to perform various operations, including inserting new employee records, viewing all employees or specific employees by ID, updating existing employee details, and deleting employee records. This system utilizes a MySQL database to store and manage employee data, providing a user-friendly interface for interacting with the database through a main menu-driven approach.
